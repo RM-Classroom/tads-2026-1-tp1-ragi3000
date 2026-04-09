@@ -1,6 +1,6 @@
 # 🚗 Sistema de Locadora de Veículos - API
 
-API desenvolvida para o Trabalho Prático (Etapa 2) do curso de **Análise e Desenvolvimento de Sistemas (TADS)** na **PUC Minas**. O sistema gerencia o fluxo de locação de veículos, integrando clientes, frotas e precificação dinâmica por categoria.
+API desenvolvida para o Trabalho Prático do curso de **Análise e Desenvolvimento de Sistemas (ADS)** na **PUC Minas**. O sistema gerencia o fluxo de locação de veículos, integrando clientes, frotas e precificação dinâmica por categoria.
 
 ## 🚀 Tecnologias Utilizadas
 * **Linguagem:** C# 10+
