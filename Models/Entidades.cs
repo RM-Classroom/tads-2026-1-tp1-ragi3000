@@ -90,7 +90,7 @@ namespace Locadora.Models
         // Chaves Estrangeiras
         public int ClienteId { get; set; }
         [ForeignKey("ClienteId")]
-        public Cliente Cliente { get; set; }
+        public Cliente? Cliente { get; set; }
 
         public int VeiculoId { get; set; }
         [ForeignKey("VeiculoId")]
